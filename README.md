@@ -1,2 +1,2 @@
 # Zachet2
-Зачетная работа 2
+Start working with git
